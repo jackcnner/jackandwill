@@ -82,10 +82,11 @@ body { background-color:#A11C1C; padding:0;  margin: 0; }
 #container_b61e83_padding { margin: 10px 50px 10px 50px;display: block;  }
 #anchor_4447d3e4 { vertical-align: bottom; position:relative; display: inline-block;  }
 #img_698f25ca { vertical-align: bottom; position:relative; display: inline-block; width:75%; min-width:100px; max-width:325px; background:none; height:auto;  }
+.textstyle13 { font-size:18pt; font-family:'Yuji Syuku', 'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#A11C1C; font-weight:bold;  }
 #button_45953828 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:200px; height:75px; background-color:#A11C1C; border: 0px solid #A11C1C;  }
 .vcenterstyle1 { display: table; width: 100%; height: 100%; }
 .vcenterstyle2 { display: table-cell; vertical-align: middle; }
-.textstyle13 { font-size:18pt; font-family:'Yuji Syuku', 'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#FFFFFF;  }
+.textstyle14 { font-size:18pt; font-family:'Yuji Syuku', 'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#FFFFFF;  }
 #img_3479b30e { vertical-align: bottom; position:relative; display: inline-block; width:10%; min-width:100px; background:none; height:auto;  }
 #container_48390faf { vertical-align: top; position:relative; display: inline-block; margin:20px 0px 0px 0px;width:100%; max-width:1024px; background-color:#FFFDEE;  }
 #container_48390faf_padding { margin: 10px 50px 10px 50px;display: block;  }
@@ -97,9 +98,9 @@ body { background-color:#A11C1C; padding:0;  margin: 0; }
 #container_38dcda88_padding { margin: 10px; display: block;  }
 #container_2eed27d { vertical-align: top; position:relative; display: inline-block; width:33%; background:none;  }
 #container_2eed27d_padding { margin: 10px; display: block;  }
-.textstyle14 { text-align:right; }
-.textstyle15 { font-size:12pt; font-family:'Bebas Neue', Impact, Charcoal, sans-serif; color:#000000;  }
-.textstyle16 { font-size:12pt; font-family:'Noto Color Emoji.Bebas Neue', Impact, Charcoal, sans-serif; color:#000000;  }
+.textstyle15 { text-align:right; }
+.textstyle16 { font-size:12pt; font-family:'Bebas Neue', Impact, Charcoal, sans-serif; color:#000000;  }
+.textstyle17 { font-size:12pt; font-family:'Noto Color Emoji.Bebas Neue', Impact, Charcoal, sans-serif; color:#000000;  }
 @media only screen and (max-width: 600px)
 {
 		#container_1e42030 { width:100%;  }
