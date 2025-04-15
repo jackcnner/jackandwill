@@ -1,3 +1,4 @@
+h1, h2, h3 { margin:0; padding:0; font-weight:normal; font-style:normal; }
 a { color:#5D5D9E; } 
 a:visited { color:#5D5D9E; } 
 a:active { color:#5C615E; } 
@@ -50,6 +51,7 @@ body { background-color:#A11C1C; padding:0;  margin: 0; }
 #img_3205b59a { vertical-align: bottom; position:relative; display: inline-block; width:50%; background:none; height:auto;  }
 #container_33b4fd2e { vertical-align: top; position:relative; display: inline-block; width:50%; min-height:150px; background:none;  }
 #container_33b4fd2e_padding { margin: 10px; display: block;  }
+#heading_7f1a60d2 { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:24pt; font-family:'Yuji Syuku', 'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#A11C1C; text-align:center;  }
 #container_9e8f6cb { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
 #container_9e8f6cb_padding { margin: 10px; display: block;  }
 #container_3a687b5a { vertical-align: top; position:relative; display: inline-block; width:50%; min-height:150px; background:none;  }
@@ -57,6 +59,7 @@ body { background-color:#A11C1C; padding:0;  margin: 0; }
 #img_b0df8f6 { vertical-align: bottom; position:relative; display: inline-block; width:50%; background:none; height:auto;  }
 #container_29067862 { vertical-align: top; position:relative; display: inline-block; width:50%; min-height:150px; background:none;  }
 #container_29067862_padding { margin: 10px; display: block;  }
+#heading_1cbf4b04 { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:24pt; font-family:'Yuji Syuku', 'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#A11C1C; text-align:center;  }
 #container_6d2dd433 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
 #container_6d2dd433_padding { margin: 10px; display: block;  }
 #container_59299990 { vertical-align: top; position:relative; display: inline-block; width:50%; min-height:150px; background:none;  }
@@ -64,6 +67,7 @@ body { background-color:#A11C1C; padding:0;  margin: 0; }
 #img_5413056b { vertical-align: bottom; position:relative; display: inline-block; width:75%; background:none; height:auto;  }
 #container_5fdec02b { vertical-align: top; position:relative; display: inline-block; width:50%; min-height:150px; background:none;  }
 #container_5fdec02b_padding { margin: 10px; display: block;  }
+#heading_3b8da00f { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:24pt; font-family:'Yuji Syuku', 'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#A11C1C; text-align:center;  }
 #container_8033757 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
 #container_8033757_padding { margin: 10px; display: block;  }
 #container_1f421e47 { vertical-align: top; position:relative; display: inline-block; width:50%; min-height:150px; background:none;  }
@@ -71,6 +75,7 @@ body { background-color:#A11C1C; padding:0;  margin: 0; }
 #img_67883280 { vertical-align: bottom; position:relative; display: inline-block; width:75%; background:none; height:auto;  }
 #container_3d782f09 { vertical-align: top; position:relative; display: inline-block; width:50%; min-height:150px; background:none;  }
 #container_3d782f09_padding { margin: 10px; display: block;  }
+#heading_75b17a31 { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:24pt; font-family:'Yuji Syuku', 'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#A11C1C; text-align:center;  }
 #container_4e6f07ae { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
 #container_4e6f07ae_padding { margin: 10px; display: block;  }
 #container_48ef720e { vertical-align: top; position:relative; display: inline-block; width:50%; min-height:150px; background:none;  }
@@ -78,6 +83,7 @@ body { background-color:#A11C1C; padding:0;  margin: 0; }
 #img_9da77dd { vertical-align: bottom; position:relative; display: inline-block; width:75%; background:none; height:auto;  }
 #container_3a408b00 { vertical-align: top; position:relative; display: inline-block; width:50%; min-height:150px; background:none;  }
 #container_3a408b00_padding { margin: 10px; display: block;  }
+#heading_35c328c9 { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:24pt; font-family:'Yuji Syuku', 'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#A11C1C; text-align:center;  }
 #container_b61e83 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:1024px; background-color:#FFFDEE;  }
 #container_b61e83_padding { margin: 10px 50px 10px 50px;display: block;  }
 #anchor_4447d3e4 { vertical-align: bottom; position:relative; display: inline-block;  }
