@@ -76,12 +76,6 @@ body { background-color:#A11C1C; padding:0;  margin: 0; }
 #container_3d782f09 { vertical-align: top; position:relative; display: inline-block; width:50%; min-height:150px; background:none;  }
 #container_3d782f09_padding { margin: 10px; display: block;  }
 #heading_75b17a31 { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:24pt; font-family:'Yuji Syuku', 'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#A11C1C; text-align:center;  }
-#container_4e6f07ae { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
-#container_4e6f07ae_padding { margin: 10px; display: block;  }
-#container_48ef720e { vertical-align: top; position:relative; display: inline-block; width:50%; min-height:150px; background:none;  }
-#container_48ef720e_padding { margin: 10px; display: block;  }
-#img_9da77dd { vertical-align: bottom; position:relative; display: inline-block; width:75%; background:none; height:auto;  }
-#heading_35c328c9 { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:24pt; font-family:'Yuji Syuku', 'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#A11C1C; text-align:center;  }
 #container_b61e83 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:1024px; background-color:#FFFDEE;  }
 #container_b61e83_padding { margin: 10px 50px 10px 50px;display: block;  }
 #anchor_4447d3e4 { vertical-align: bottom; position:relative; display: inline-block;  }
@@ -121,5 +115,4 @@ body { background-color:#A11C1C; padding:0;  margin: 0; }
 		#container_5fdec02b { width:100%;  }
 		#container_1f421e47 { width:100%;  }
 		#container_3d782f09 { width:100%;  }
-		#container_48ef720e { width:100%;  }
 }
